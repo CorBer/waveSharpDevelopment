@@ -16,7 +16,7 @@
 <br>
 <b> GRANT </b>
 <br>
-1) Arbitrary crop area, selectable <i>somehow</i>
-2) Resizing (rescaling) down to 25%, up to 400%
+1) Arbitrary crop area, selectable <i>somehow</i><br>
+2) Resizing (rescaling) down to 25%, up to 400%<br>
 3) Canvas extension (filling with background colour) up to 1024 x 1024
 <br>

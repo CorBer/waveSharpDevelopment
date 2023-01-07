@@ -5,19 +5,18 @@
 4) There should be an image scaling editable text field
 5) Upscaling should be allowed up to some reasonable limit
 6) A related simple feature is flip, as in flip vertical and flip horizontal checkboxes on the preprocessing tab.
-7) 
+<br>
 <b> DON </b>
 <br>
 1)Scroll through the batch file list and edit the list<br>
   -select the file, the image appears in the window, ability to delete the file from the batch<br>
 2) Crop and scale<br>
 3) remove the sharpened edges on the frame borders
-4) 
+<br>
 <br>
 <b> GRANT </b>
 <br>
 1) Arbitrary crop area, selectable <i>somehow</i>
 2) Resizing (rescaling) down to 25%, up to 400%
 3) Canvas extension (filling with background colour) up to 1024 x 1024
-4) 
 <br>

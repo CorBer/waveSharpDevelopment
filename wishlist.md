@@ -1,3 +1,4 @@
+<b>MICHAEL</b>
 1) Arbitrary crop area, selectable by click and drag in the preview.
 2) The crop box should be shown in the preview in a distinct highlight color and have grab & drag corners and edges to adjust it
 3) The crop corner locations (X & Y) should be shown in editable text fields for manual fine adjustment

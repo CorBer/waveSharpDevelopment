@@ -6,6 +6,7 @@
 5) Upscaling should be allowed up to some reasonable limit
 6) A related simple feature is flip, as in flip vertical and flip horizontal checkboxes on the preprocessing tab.
 <br>
+
 <b> DON </b>
 <br>
 1)Scroll through the batch file list and edit the list<br>
@@ -13,6 +14,11 @@
 2) Crop and scale<br>
 3) remove the sharpened edges on the frame borders
 <br>
+<br>
+<b>TAN</b>
+
+1) Add in ability to generate mp4 or some other movie format. Perhaps using what Cor had been fiddling with: calling external programs like ffmpeg.
+2) Adding the ability to call external programs actually frees up a lot of the WS effort. For example, cropping, image, conversions to jpeg etc are easily done with imagemagick. Also, applying a mask file in batch - MPO
 <b>TAN</b>
 
 1) Add in ability to generate mp4 or some other movie format. Perhaps using what Cor had been fiddling with: calling external programs like ffmpeg.

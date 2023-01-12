@@ -30,3 +30,7 @@
 2) Resizing (rescaling) down to 25%, up to 400%<br>
 3) Canvas extension (filling with background colour) up to 1024 x 1024
 <br>
+
+<b> USERS </b>
+ 1) add drag and drop
+ 2) allow TAB to step through controls (logically) ... PROBABLY THE LATEST THING TO DO !!

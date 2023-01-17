@@ -1,3 +1,5 @@
+ &#10004; based on V02_09 
+
 <b>MICHAEL</b>
 1) &#10004; Arbitrary crop area, selectable by click and drag in the preview.
 2) &#10004;The crop box should be shown in the preview in a distinct highlight color and have grab & drag corners and edges to adjust it

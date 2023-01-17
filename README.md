@@ -1,4 +1,4 @@
 # waveSharpDevelopment<br>
 **FILES ARE IN THE RELEASE AREA**<br>
 https://github.com/CorBer/waveSharpDevelopment/releases/tag/dev_version <br>
-waveSharp v1 Development 
+waveSharp towards v1 Development 

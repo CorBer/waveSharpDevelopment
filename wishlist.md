@@ -1,4 +1,4 @@
- &#10004; based on V02_09 
+ <h1>&#10004; based on V02_09</h1> 
 
 <b>MICHAEL</b>
 1) &#10004; Arbitrary crop area, selectable by click and drag in the preview.

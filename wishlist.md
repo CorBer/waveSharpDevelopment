@@ -11,7 +11,7 @@
 
 <b> DON </b>
 <br>
-1)&#10060;Scroll through the batch file list and edit the list<br>
+1)&#10004;Scroll through the batch file list and edit the list<br>
   -select the file, the image appears in the window, ability to delete the file from the batch<br>
 2)  &#10004;Crop and scale<br>
 3)  &#10004;remove the sharpened edges on the frame borders

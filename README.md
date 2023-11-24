@@ -1,4 +1,4 @@
 # waveSharpDevelopment<br>
-**FILES ARE IN THE RELEASE AREA**<br>
-https://github.com/CorBer/waveSharpDevelopment/releases/tag/dev_version <br>
-waveSharp towards v1 Development 
+
+This repository is the storage for temporary development files. Any file can/will be removed unnotified. Files are as-is and
+requests for issues will not be adressed via this Github channel.
